@@ -1,0 +1,9 @@
+.App {
+  /* text-align: center; */
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+}
